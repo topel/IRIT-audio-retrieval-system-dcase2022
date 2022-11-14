@@ -1,0 +1,141 @@
+experiment: audio-retrieval
+
+#output_path: "?"  # Output dir
+output_path: "outputs_passt_sent_scene"  # Output dir
+
+wandb: False
+
+# Data configurations
+train_data:
+    input_path: "/home/pellegri/research/PROJETS/dcase2022/mydcase2022-audio-retrieval/Clotho.v2.1"  # Input dir
+
+    dataset: Clotho.v2.1
+    data_splits:
+        train: development_captions.json
+        val: validation_captions.json
+        test: evaluation_captions.json
+    text_tokens: tokens
+    audio_features: audio_passt_torch.hdf5
+#    audio_features: clotho_audioEmbed_passt_torch.hdf5
+#    audio_features: audio_raw_waveforms_torch.hdf5
+##    caption_embeddings: sentence_embeddings_MiniLM.hdf5
+    caption_embeddings: sentence_embeddings_mpnet.hdf5
+    word_embeddings: word2vec_emb.pkl
+    use_auto_caption_embeddings: False
+#    auto_caption_embeddings: etienne_autocaptions_embeddings_mpnet.hdf5
+    use_scene_passt_embeddings: True
+    scene_audio_feats: clotho_audioEmbed_passt_torch.hdf5
+    vocabulary: vocab_info.pkl
+    use_mixup: False
+    beta: 0.1
+
+
+
+# Training configurations
+training:
+#    model: PasstWordModel
+    model: PasstSentModel
+    algorithm:
+        epochs: 30
+        batch_size: 32
+        criterion: TripletRankingLoss
+#        criterion: MixupTripletRankingLoss
+        optimizer: AdamOptimizer
+
+# Model hyper-parameters
+PasstSentModel:
+    name: PasstSentModel
+    args:
+        audio_encoder:
+            in_dim: -1
+            passt_dim: 527
+            scene_embed_dim: 768
+            out_dim: 768
+#            out_dim: 384
+            up_sampling: False
+            audioset_path: "/home/pellegri/research/PROJETS/dcase2022/mydcase2022-audio-retrieval/Clotho.v2.1"
+            audioset_info: tags
+            audioset_embeddings: audioset_527_tags_embeddings_mpnet.hdf5
+#            audioset_info: sent_tags
+#            audioset_embeddings: audioset_527_sentence_embeddings_mpnet.hdf5
+#            audioset_info: sent_notags
+#            audioset_embeddings: audioset_527_sentenceNoTags_embeddings_mpnet.hdf5
+#            audioset_info: none
+#            audioset_embeddings: none
+
+            ratio_embed1: 0.8
+        text_encoder:
+            word_embedding:
+                embed_dim: 768
+                pretrained: True
+                trainable: False
+            out_dim: 527
+
+## Model hyper-parameters
+#PasstWordModel:
+#    name: PasstWordModel
+#    args:
+#        audio_encoder:
+#            in_dim: -1
+#            passt_dim: 527
+#            out_dim: 300
+#            up_sampling: False
+#        text_encoder:
+#            word_embedding:
+#                embed_dim: 300
+#                pretrained: True
+#                trainable: False
+
+
+# Algorithm hyper-parameters
+
+# Losses
+TripletRankingLoss:
+    name: TripletRankingLoss
+    args:
+        margin: 0.4
+
+
+MixupTripletRankingLoss:
+    name: MixupTripletRankingLoss
+    args:
+        margin: 1.0
+
+
+# Optimizers
+AdamOptimizer:
+    name: Adam
+    args:
+        lr: 0.001
+        weight_decay: 0.0
+    scheduler_args:
+        mode: min
+        factor: 0.1
+        patience: 5
+        threshold: 0.01
+        threshold_mode: abs
+
+
+# Evaluation data
+eval_data:
+    input_path: "/home/pellegri/research/PROJETS/dcase2022/mydcase2022-audio-retrieval/Clotho.v2.1"  # Input dir
+
+    dataset: Clotho.v2.1
+    data_splits:
+        train: development_captions.json
+        val: validation_captions.json
+        test: evaluation_captions.json
+    text_tokens: tokens
+    audio_features: audio_passt_torch.hdf5
+#    audio_features: clotho_audioEmbed_passt_torch.hdf5
+
+#    audio_features: audio_raw_waveforms_torch.hdf5
+##    caption_embeddings: sentence_embeddings_MiniLM.hdf5 # out_dim: 384
+    caption_embeddings: sentence_embeddings_mpnet.hdf5 # out_dim: 768
+    use_auto_caption_embeddings: False
+    auto_caption_embeddings: etienne_autocaptions_embeddings_mpnet.hdf5
+    word_embeddings: word2vec_emb.pkl
+    use_scene_passt_embeddings: True
+    scene_audio_feats: clotho_audioEmbed_passt_torch.hdf5
+    vocabulary: vocab_info.pkl
+    use_mixup: False
