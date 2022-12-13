@@ -27,7 +27,7 @@ I provide another script to do the same on the official evaluation subset:
 
 Why a separate script? Because unlike the dev/val/eval subsets, the official eval subset provides a single caption instead of five, and of course no ground-truth audio file names with these captions.
 
-## Part 2 - Audio feature extraction: Global PaSST logits in my system (one vector per audio file)
+## Part 2 - Audio feature extraction: Global PaSST logits (one vector per audio file)
 
 1- Extract the audio scene embeddings (logits) with PaSST 
 
