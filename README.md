@@ -74,3 +74,9 @@ Remarks
 - It uses wandb to log the exps, you can activate it in the YAML file with: ```wandb: True```. As provided, it is set to ```False```.
 
 - This script main function is ```train```, but there is also a method to train a model on AudioCaps: ```train_audiocaps```.
+
+## Citation
+
+T. Pellegrini. Language-based audio retrieval with textual embeddings of tag names. In Proc. Workshop DCASE, Nancy, Nov. 2022.
+https://ut3-toulouseinp.hal.science/hal-03812737/document
+
