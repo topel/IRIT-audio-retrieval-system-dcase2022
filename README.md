@@ -74,7 +74,7 @@ The serious business (problems? ;-)) begins here...
 
 1- First edit the YAML config file: ```conf.yaml```
 
-2- Run the main script: ```python main.py```
+2- Second, run the main script: ```python main.py```
 
 Remarks
 
