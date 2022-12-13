@@ -1,0 +1,527 @@
+Speech, speech is the vocalized form of human communication, created out of the phonetic combination of a limited set of vowel and consonant speech sound units.
+Male speech, man speaking, speech uttered by an adult male human.
+Female speech, woman speaking, speech uttered by an adult female human.
+Child speech, kid speaking, speech uttered by a human child, i.e.
+Conversation, interactive, spontaneous spoken communication between two or more people.
+Narration, monologue, speech by a single human aimed at an audience either present or assumed, as in a video blog.
+Babbling, speech-like sounds uttered by a human that lack the deeper structure and meaning of conventional speech.
+Speech synthesizer, artificially-produced human speech.
+Shout, talk in a loud voice to deliberately command attention or overcome interfering sounds.
+Bellow, a very loud utterance by a person that seems more animal than human.
+Whoop, a loud hooting cry of exultation or excitement.
+Yell, utter or declare in a very loud voice that seems excessive or involuntary, or that is deliberately startling in order to command attention, as distinct from the pragmatically raised voice of shout.
+Battle cry, a yell or chant taken up in battle, usually by members of the same combatant group, aiming at arousing aggression on one's own side and intimidating the enemy.
+Children shouting, the boisterous vocalizations of a group of children, for instance in a playground.
+Screaming, a sharp, high-pitched human vocalization; often an instinctive action indicating fear, pain, surprise, joy, anger, etc.
+Whispering, unvoiced speech, usually intended to be quieter to avoid causing disturbance or being overheard.
+Laughter, the sound of rhythmical contractions of the diaphragm in response to stimuli such as tickling, or from humorous stories or thoughts.
+Baby laughter, laughter that is produced by a baby or infant.
+Giggle, a foolish or nervous laugh.
+Snicker, a disrespectful laugh.
+Belly laugh, very loud and abrupt laughter that encompasses much of the body.
+Chuckle, chortle, laugh quietly or with restraint.
+Crying, sobbing, sound associated with the shedding of tears in response to an emotional state, arising from slow but erratic inhalation, occasional instances of breath holding and muscular tremor.
+Baby cry, infant cry, the sound of a young child crying or bawling.
+Whimper, a plaintive, whining vocalization with some abrupt changes in loudness.
+Wail, moan, a weak or soft emotional vocalization, possibly indicating pain, sadness, or pleasure.
+Sigh, an utterance made by exhaling audibly.
+Singing, musical sounds produced with the human voice, including sustained tonality, rhythm, and a variety of other vocal techniques.
+Choir, a musical ensemble of singers.
+Yodeling, a form of singing that involves repeated and rapid changes of pitch between the low-pitch chest register and the high-pitch head register or falsetto.
+Chant, the rhythmic speaking or singing of words or sounds, often primarily on one or two main pitches called reciting tones.
+Mantra, a melodic sacred utterance believed to have spiritual powers.
+Male singing, singing produced by an adult human male.
+Female singing, singing produced by an adult human female.
+Child singing, singing produced by a young human whose voice has not yet reached its adult state.
+Synthetic singing, singing-like sounds produced by artificial means, such as an electronic synthesizer.
+Rapping, the sound of "spoken or chanted rhyming lyrics", serving the role of a vocal line in music but with normal speech intonation instead of a melodic line.
+Humming, a wordless tone produced by forcing the sound to emerge from the nose, often with a melody.
+Groan, an utterance expressing pain or disapproval.
+Grunt, a short low gruff noise, resembling the sound made by animals such as pigs.
+Whistling, high-pitched tone produced by blowing or sucking air through a small opening between the lips.
+Breathing, air being moved in and out of the lungs in order to sustain life.
+Wheeze, a continuous, coarse, whistling sound produced by obstruction of the respiratory airways during breathing.
+Snoring, the sound resulting from obstructed respiratory airways during breathing while sleeping.
+Gasp, a short labored intake of breath with the mouth open.
+Pant, fast and noisy breathing, often associated with physical exertion.
+Snort, the sound of a single, hard exhalation through the nose.
+Cough, a sudden and often repetitively occurring reflex which consists of an inhalation, a forced exhalation against a closed glottis, and a violent release of air following opening of the glottis.
+Throat clearing, forced exhalation through a partially-closed glottis to disrupt built-up mucus, or used as a social signal to draw attention to one's presence.
+Sneeze, a convulsive expulsion of air from the lungs through the nose and mouth, usually caused by foreign particles irritating the nasal mucous.
+Sniff, inhale audibly through the nose.
+Run, move fast by using one's feet.
+Shuffle, walk while dragging the feet, often indicating impaired mobility.
+Walk, footsteps, the sound of feet or shoes contacting the ground in conventional human locomotion.
+Chewing, mastication, food being crushed and ground by teeth.
+Biting, gripping or chewing off with the teeth and jaws.
+Gargling, air from the lungs bubbling through a liquid in the mouth.
+Stomach rumble, a rumbling, growling or gurgling noise produced by movement of the contents of the gastro-intestinal tract.
+Burping, eructation, the release of gas from the digestive tract through the mouth.
+Hiccup, a strong, involuntary contraction of the diaphragm that may repeat several times per minute.
+Fart, the release of gasses produced by digestion through the anus; flatulence.
+Hands, sounds originating primarily from the hands and fingers of humans.
+Finger snapping, a snapping or clicking sound usually caused by building tension between the thumb and another finger and then moving the other finger forcefully downward to hits the palm at high speed.
+Clapping, a percussive sound made by a human striking together the palms of their two hands, often quickly and repeatedly to express appreciation or approval.
+Heart sounds, heartbeat, noises generated by the beating heart and the resultant flow of blood through it.
+Heart murmur, heart sounds produced by abnormal blood flow across one of the heart valves, typically detected by a stethoscope.
+Cheering, encouraging, stimulating, or exciting vocalizations indicating approval or welcoming persons, announcements, etc.
+Applause, group expression of approval by the collective act of clapping by a group.
+Chatter, the combined sound of casual speech by many people in individual simultaneous conversations.
+Crowd, the sound of a large group of people gathered together.
+Hubbub, speech noise, speech babble, loud, disordered, unintelligible speech noise from many sources.
+Children playing, the sound of children at play, including any of vocalization or the sounds of their activities.
+Animal, all sound produced by the bodies and actions of nonhuman animals.
+Domestic animals, pets, sounds of animals kept in close proximity to humans for company, protection, and entertainment.
+Dog, any sounds coming from the familiar domesticated canid which has been selectively bred over millennia for companionship, protection, as well as for superior sensory capabilities, and other useful behaviors.
+Bark, principal communication sound produced by dogs.
+Yip, a sharp high-pitched bark or cry, typically from a miniature dog.
+Howl, the long plaintive cry of a dog, wolf, or other canidae.
+Bow-wow, dog communication sound that is more tonal and less abrupt than a classic bark.
+Growling, a low, guttural vocalization produced by animals as a warning, a sign of aggression, or to express anger.
+Whimper (dog), muted dog vocalization indicating submission, fear, or pain.
+Cat, sounds associated with the familiar, furry, domestic carnivorous mammal.
+Purr, a tonal fluttering sound made by cats to indicate contentment or relaxed pleasure.
+Meow, the classic tonal communication sound made by cats.
+Hiss, a fricative sound, such as from a cat giving warning, or an audience indicating disapproval.
+Caterwaul, the yowling sound made by a cat in heat.
+Livestock, farm animals, working animals, sound made by animals associated with farms and agriculture.
+Horse, sounds associated with the familiar domesticated large, fast, and strong ungulate mammal.
+Clip-clop, the sound of a horse's hoofs hitting on a hard surface.
+Neigh, whinny, the characteristic communication sound made by a horse.
+Cattle, bovinae, sounds associated with the most common type of large domesticated ungulates.
+Moo, the classic communication sound made by a cow or bull.
+Cowbell, a simple metal bell historically tied around the necks of cattle to keep track of their whereabouts.
+Pig, sounds associated with the highly intelligent, very common, domesticated relative of the boar.
+Oink, common vocalization sound associated with pigs.
+Goat, sounds of the medium-sized domesticated bovidae.
+Bleat, communicative vocalization of sheep and goats.
+Sheep, sounds associated with the familiar quadrupedal, ruminant mammal typically kept as livestock.
+Fowl, sounds associated with the bird species commonly raised for human consumption.
+Chicken, rooster, sounds of the very common and widespread domesticated fowl, raised for its eggs and meat.
+Cluck, the soft, low-pitched, and repetitive sound made by chickens.
+Crowing, cock-a-doodle-doo, the multi-syllable warning call made by a rooster male chicken.
+Turkey, sounds associated with the large poultry bird, originally domesticated in the americas.
+Gobble, the characteristic sound made by a turkey cock.
+Duck, sounds associated with this collection of waterfowl species.
+Quack, the harsh communication sound made by a duck.
+Goose, sounds associated with this species of larger waterfowl.
+Honk, the cry of a goose.
+Wild animals, sounds associated with animals not normally raised by humans.
+Roaring cats (lions, tigers), sounds associated with the larger and more ferocious wild relatives of cats.
+Roar, a deep, bellowing outburst of sound forced through an open mouth, made by a lion or other "big cat" species.
+Bird, sounds associated with the large group of flying vertebrates.
+Bird vocalization, bird call, bird song, bird communication calls, often considered melodious to the human ear.
+Chirp, tweet, a brief sound as made by a small bird.
+Squawk, abrasive, unpleasant sharp sound produced by a bird.
+Pigeon, dove, sounds associated with these species of birds having short necks and short, slender bills.
+Coo, the sound made by a pigeon or dove.
+Crow, sounds associated with the species of medium-to-large birds, corvus.
+Caw, the relatively harsh sound made by corvine birds.
+Owl, sounds associated with the mostly solitary and nocturnal carnivorous birds from the order strigiformes.
+Hoot, the loud raucous cry of an owl.
+Bird flight, flapping wings, sounds caused by a bird's use of its wings to travel through the air.
+Canidae, dogs, wolves, sounds associated with the wild relatives of domesticated dogs.
+Rodents, rats, mice, sounds associated with the small mammals of the order rodentia, found in vast numbers on all continents except antarctica.
+Mouse, sounds associated with the familiar small rodent.
+Patter, a quick succession of light rapid sounds, usually suggesting the locomotion of small animals.
+Insect, sounds associated with invertebrates from the arthropod phylum that have a chitinous exoskeleton, a three-part body, three pairs of jointed legs, compound eyes, and one pair of antennae.
+Cricket, sounds associated with these relatives of grasshoppers characterized by enlarged hind legs, providing power for jumping.
+Mosquito, sounds associated with these small, midge-like flies whose tube-like mouth parts pierce the hosts' skin to consume blood.
+Fly, housefly, sounds associated with these insects of the order diptera, which use only a single pair of wings to fly.
+Buzz, the sound of rapid vibration, commonly the wings of a flying insect.
+Bee, wasp, etc., sounds associated with these closely-related species of flying insects known for pollination, honey-production, and the ability to sting humans.
+Frog, sounds associated with the short-bodied, tailless amphibians composing the order anura.
+Croak, the harsh hoarse utterance of a frog.
+Snake, sounds associated with the elongated, legless, carnivorous reptiles of the suborder serpentes.
+Rattle, a rapid series of short loud sounds as of small hard items loose inside a container.
+Whale vocalization, sounds produced by whales for different kinds of communication.
+Music, music is an art form and cultural activity whose medium is sound and silence.
+Musical instrument, sounds specifically associated with instruments created, adapted or otherwise used to make musical sounds.
+Plucked string instrument, sounds of a musical instrument using tensioned strings to produce tones, where the usual mode of playing is to pull and release the strings to cause them to vibrate.
+Guitar, sounds of a string instrument with between 4 and 18 strings typically 6 running over a fretboard, typically played by strumming or plucking the strings with the right hand while fretting the strings with the fingers of the left hand.
+Electric guitar, sounds of a guitar that uses a pickup to convert the vibration of its strings which are typically made of metal, and which occurs when a guitarist strums, plucks, or fingerpicks the strings into electrical impulses, which are then amplified and converted to sound.
+Bass guitar, sounds of a relative of the electric guitar with a longer neck and 4 to 6 strings.
+Acoustic guitar, sounds of a guitar that produces sound acoustically by transmitting the vibration of the strings from its body to the air.
+Steel guitar, slide guitar, sounds of a guitar whose string length is controlled by a hard object placed on the string the "slide" or "steel" instead of by pressing against the frets with the fingers.
+Tapping (guitar technique), sounds of a guitar playing technique, where a string is fretted and set into vibration as part of a single motion of being pushed onto the fretboard, as opposed to the standard technique being fretted with one hand and picked with the other.
+Strum, the sound of playing a guitar by dragging a finger or plectrum over multiple strings near-simultaneously.
+Banjo, sounds of a 4-, 5-, or 6-stringed instrument with a thin membrane stretched over a frame or cavity as a resonator, called the head.
+Sitar, sounds of a plucked stringed instrument used mainly in hindustani and indian classical music, which derives its distinctive timbre and resonance from sympathetic strings, bridge design, a long hollow neck, and a gourd-shaped resonance chamber.
+Mandolin, sounds of an instrument in the lute family, commonly with 4 courses of doubled metal strings, usually plucked with a plectrum or "pick".
+Zither, sounds of a class of stringed instruments consisting of many strings stretched across a thin, flat body, played by strumming or plucking.
+Ukulele, sounds of a small four-stringed guitar-like instument that originated in hawaii.
+Keyboard (musical), sounds of a musical instrument played using a keyboard, most commonly the piano, organ, and various electronic keyboards, including synthesizers and digital pianos.
+Piano, sounds of a musical instrument played via a row of keys that the performer presses down or strikes with the fingers and thumbs of both hands, to trigger a decaying note whose loudness reflects the vigor of the press.
+Electric piano, sounds of a music instrument with a piano-style keyboard, where pressing keys causes mechanical hammers to strike metal strings, metal reeds, or wire tines, leading to vibrations which are converted into electrical signals by magnetic pickups.
+Organ, sounds of a keyboard instrument of one or more pipe divisions, each played with its own keyboard, played either with the hands on a keyboard or with the feet using pedals.
+Electronic organ, sounds of an electronic keyboard instrument designed to imitate the sound of the pipe organ.
+Hammond organ, sounds of an electric organ invented by laurens hammond and john m. hanert in which sliding drawbars create a variety of sounds.
+Synthesizer, sounds associated with an electronic musical instrument that generates electric signals converted to sound through amplifiers and loudspeakers or headphones.
+Sampler, sounds suggesting the use of an electronic musical instrument that uses recordings of sounds loaded or recorded into it by the user, then played back by means of the sampler program itself, a keyboard, sequencer, or another triggering device.
+Harpsichord, sounds of a keyboard-controlled instrument in which each key plucks a particular string.
+Percussion, the sound of a musical instrument that is sounded by being struck or scraped by a beater; struck, scraped or rubbed by hand; or struck against another similar instrument.
+Drum kit, sounds of a collection of drums and other percussion instruments, typically cymbals, which are set up on stands to be played by a single player with drumsticks held in both hands and the feet operating pedals that control the hi-hat cymbal and the beater for the bass drum.
+Drum machine, sounds of an electronic musical instrument designed to imitate the sound of drums, cymbals, other percussion instruments, and often basslines.
+Drum, the sound of an instrument consisting of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with the player's hands, or with a drum stick, to produce sound.
+Snare drum, the sound of a drum that produces a sharp staccato sound by virtue of metal coils the "snare" stretched across one of the membranes.
+Rimshot, the sound of an accented snare drum beat produced by simultaneously hitting the rim and head of a drum with a drum stick.
+Drum roll, a sustained sound produced by multiple, rapid strikes between drum sticks and drum, made possible by bouncing alternating sticks off the head to produce a temporally dense sequence.
+Bass drum, the sound of a large drum that produces a note of low definite or indefinite pitch.
+Timpani, the sound of an orchestral drum consisting of a skin stretched over a large bowl traditionally made of copper, where the head is tensioned to produce an identifiable pitch.
+Tabla, the sound of a classical hindustani percussion instrument consisting of a pair of hand drums of contrasting sizes and timbres, producing distinct pitches when struck.
+Cymbal, the sound of a percussion instrument consisting of thin, normally round plates of various alloys.
+Hi-hat, the sound of a mating pair of small cymbals mounted atop one-another on a stand, the bottom fixed and the top activated up and down by a foot pedal.
+Wood block, the sound of a small slit drum made from a single piece of wood, making a very short, clean sound.
+Tambourine, the sound of a musical instrument consisting of a frame with pairs of small metal jingles.
+Rattle (instrument), the sound of an instrument that produces a sound when shaken, usually consisting of a closed rigid shell containing numerous small particles that strike the shell when shaken.
+Maraca, the sound of a specific kind of rattle that appears in many genres of caribbean and latin music.
+Gong, the sound of a musical percussion instrument consisting of a flat, circular metal disc which is hit with a mallet.
+Tubular bells, sounds of tuned percussion instruments consisting of a metal tube, tuned by altering its length in the range c4-f5.
+Mallet percussion, sounds of melodic percussion instruments consisting of an array of elements, one for each note, played with mallets.
+Marimba, xylophone, sounds of a percussion instrument consisting of a set of wooden bars struck with mallets to produce musical tones.
+Glockenspiel, sounds of a percussion instrument composed of a set of tuned metal plates or tubes laid out like the keyboard of a piano.
+Vibraphone, sounds of a tuned mallet percussion instrument similar to a xylophone or glockenspiel with the addition a motor-driven valve on each resonator that produce a tremolo or vibrato effect.
+Steelpan, sounds of a tuned percussion instrument originally constructed from steel oil drums by hammering out small patches on the head to produce separate pitches.
+Orchestra, the sound of a large instrumental ensemble a dozen or more people, often used in classical music, that contains sections of string, brass, woodwind, and percussion instruments.
+Brass instrument, the sound of a musical instrument that produces sound by vibration of air in a tubular resonator in sympathy with the vibration of the player's lips.
+French horn, the sound of a brass instrument made of tubing wrapped into a coil with a flared bell.
+Trumpet, the sound of a high-pitched brass instruments played by blowing air through almost-closed lips, producing a "buzzing" sound that starts a standing wave vibration in the air column inside the instrument.
+Trombone, the sound of a brass instrument that includes a telescoping slide mechanism that varies the length of the instrument to change the pitch.
+Bowed string instrument, sounds of the subcategory of string instruments that are usually played by a bow rubbing the strings.
+String section, the sound of a group of string instruments typically present in a standard classical orchestra.
+Violin, fiddle, the sound of a wooden string instrument, typically with four strings tuned in perfect fifths, that is most commonly played by drawing a bow across its strings, though it can also be played by plucking the strings.
+Pizzicato, the sound of playing a stringed instrument that is usually bowed such as a violin by plucking the strings with the fingers.
+Cello, the sound of a larger, lower-pitched bowed string instrument with four strings tuned in perfect fifths, usually c2, g2, d3, and a3.
+Double bass, the sound of a large, bowed string instrument, the lowest-pitched in a standard symphony orchestra, with strings usually tuned to e1, a1, d2, and g2.
+Wind instrument, woodwind instrument, sounds of a family of musical instruments in which a column of air within a resonator is set into vibration by the player blowing into a mouthpiece set at the end of the resonator.
+Flute, the sound of an aerophone or reedless wind instrument that produces its sound from the flow of air across an opening.
+Saxophone, the sound of a woodwind instrument made of brass and played with a single-reed mouthpiece similar to that of the clarinet.
+Clarinet, the sound of a woodwind instrument consisting of a single-reed mouthpiece, a straight cylindrical tube with an almost cylindrical bore, and a flared bell.
+Harp, the sound of a stringed musical instrument with a number of individual strings, plucked with the fingers, running at an angle to its soundboard.
+Bell, the sound of a simple instrument usually consisting of metal cast in the shape of a hollow cup, whose sides form a resonator which vibrates in a single tone upon being struck by a "clapper" suspended within, or by a separate mallet or hammer.
+Church bell, the sound of a large bell usually encountered in churches where it used either to signify the hour or the time for worshippers to go to church.
+Jingle bell, the sound of a type of bell which produces a distinctive 'jingle' sound, especially in large numbers.
+Bicycle bell, the sound of a percussive signaling instrument mounted on a bicycle for warning pedestrians and other cyclists.
+Tuning fork, the sound of an acoustic resonator in the form of a two-pronged fork with the prongs formed from a u-shaped bar of elastic metal.
+Chime, the sound of a musical instrument consisting of multiple tuned bells, usually rung by an automated mechanism to produce a short, characteristic tone or melody.
+Wind chime, the sound of an instrument constructed from suspended tubes, rods, bells, or other objects that are often made of metal or wood along with some type of weight the tubes or rods can strike when they or another wind-catching surface are blown by the natural movement of air outside.
+Change ringing (campanology), sounds of the art of ringing a set of typically large tuned bells in a controlled manner to produce variations in their sounding order.
+Harmonica, the sound of a wind instrument played by using the mouth to direct air into or out of one or more holes along a mouthpiece.
+Accordion, the sound of a family of box-shaped bellows-driven musical instruments played by pressing buttons or keys which allow air to flow across strips of brass or steel, called reeds, that vibrate to produce sound inside the body.
+Bagpipes, the sound of a wind instrument using enclosed reeds fed from a constant reservoir of air in the form of a bag.
+Didgeridoo, the sound of an indigenous australian wind instrument, usually cylindrical or conical, measuring anywhere from 1 to 3 m long.
+Shofar, the sound of an ancient musical horn made of ram's horn, used for jewish religious purposes.
+Theremin, the sound of an early electronic musical instrument controlled without physical contact via two metal antennas that sense the relative position of the player's hands and control oscillators for frequency with one hand, and amplitude with the other.
+Singing bowl, the sound of a type of bell that sits with the bottom surface resting, allowing the rim to vibrate to produce sound.
+Scratching (performance technique), the sound of a technique of moving a vinyl record back and forth on a turntable while optionally manipulating the crossfader on a dj mixer.
+Pop music, a genre of popular music that originated in the west during the 1950s and 1960s.
+Hip hop music, hip hop or rap music formed in the united states in the 1970s and consists of stylized rhythmic music that commonly accompanies rhythmic and rhyming speech "rapping".
+Beatboxing, a form of vocal percussion primarily involving the art of mimicking drum machines using one's mouth, lips, tongue, and voice.
+Rock music, a genre of popular music that originated as "rock and roll" in the united states in the 1950s, and developed into a range of different styles in the 1960s and later.
+Heavy metal, a genre of rock music that developed in the late 1960s and early 1970s, consisting of a thick, massive sound, characterized by highly amplified distortion, extended guitar solos, emphatic beats, and overall loudness.
+Punk rock, a rock music genre that developed between 1974 and 1976 typically composed of short or fast-paced songs, with hard-edged melodies and singing styles, stripped-down instrumentation, and often political, anti-establishment lyrics.
+Grunge, a subgenre of alternative rock that emerged during the mid-1980s fusing elements of punk rock and heavy metal, such as distorted electric guitars.
+Progressive rock, a rock music subgenre that developed in the late 1960s as an attempt to give greater artistic credibility to rock music.
+Rock and roll, a genre of popular music that originated and evolved in the united states during the late 1940s and early 1950s, from a combination of african-american genres such as blues, boogie-woogie, jump blues, jazz, and gospel music, together with western swing and country music.
+Psychedelic rock, a style of rock music influenced by psychedelic culture and attempts to replicate and enhance the mind-altering experiences of psychedelic drugs, most notably lsd.
+Rhythm and blues, a genre of popular african-american music that originated in the 1940s as urbane, rocking, jazz based music with a heavy, insistent beat.
+Soul music, a popular music genre that combines elements of african-american gospel music, rhythm and blues and jazz.
+Reggae, a music genre that originated in jamaica in the late 1960s, strongly influenced by traditional mento as well as american jazz and rhythm and blues, instantly recognizable from the counterpoint between the bass and drum downbeat, and the offbeat rhythm section.
+Country, a genre of united states popular music with origins in folk, blues and western music, often consisting of ballads and dance tunes with generally simple forms and harmonies accompanied by mostly string instruments such as banjos, electric and acoustic guitars, dobros, and fiddles as well as harmonicas.
+Swing music, a form of american music that dominated in the 1930s and 1940s, using a strong rhythm section of double bass and drums as the anchor, a lead section of brass, woodwind, and sometimes stringed instruments, medium to fast tempos, and a "lilting" swing time rhythm.
+Bluegrass, a form of american roots music from the appalachias with mixed roots in irish, scottish, welsh, and english traditional music, later influenced by the music of african-americans through incorporation of jazz elements.
+Funk, a music genre that originated in the 1960s when african american musicians created a rhythmic, danceable new form of music that de-emphasized melody and chord progressions to bring a strong rhythmic groove of a bass line and drum part to the foreground.
+Folk music, a genre that evolved from traditional music during the 20th century folk revival.
+Middle Eastern music, music originating from the vast region from morocco to iran, including the arabic countries of the middle east and north africa, the iraqi traditions of mesopotamia, iranian traditions of persia, the hebrew music of israel, armenian music, the varied traditions of cypriot music, the music of turkey, traditional assyrian music, berbers of north africa, and coptic christians in egypt.
+Jazz, a music genre that originated from african american communities of new orleans during the late 19th and early 20th centuries in the form of independent traditional and popular musical styles, all linked by the common bonds of african american and european american musical parentage with a performance orientation.
+Disco, a genre of dance music containing elements of funk, soul, pop, and salsa that achieved popularity during the mid-1970s to the early 1980s.
+Classical music, art music produced or rooted in the traditions of western music, including both liturgical and secular music, over the broad span of time from roughly the 11th century to the present day.
+Opera, an art form in which singers and musicians perform a dramatic work combining text and musical score, usually in a theatrical setting.
+Electronic music, a large set of predominantly popular and dance genres in which synthesizers and other electronic instruments are the primary sources of sound.
+House music, a genre of electronic dance music originating in chicago in the early 1980s which is generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines, off-beat hi-hat cymbals, and synthesized basslines.
+Techno, a form of electronic dance music that emerged in detroit during the mid-to-late 1980s, resulting from the melding of african american music including with electronic music by artists such as kraftwerk, giorgio moroder, and yellow magic orchestra.
+Dubstep, a genre of electronic dance music that originated in south london in the late 1990s which generally features sparse, syncopated drum and percussion patterns with bass lines that contain prominent sub bass frequencies.
+Drum and bass, a genre of electronic music that emerged from rave and oldschool jungle scenes in england during the early 1990s characterized by fast, syncopated breakbeats with heavy bass and sub-bass lines, sampled sources, and synthesizers.
+Electronica, an umbrella term that encompasses a broad group of electronic-based styles such as techno, house, ambient, drum and bass, jungle, and industrial dance, among others.
+Electronic dance music, a broad range of percussive electronic music genres including techno, house, trance, drum and bass, dubstep, and jersey club produced largely for nightclubs, raves, and festivals, or by disc jockeys in the context of a live mix.
+Ambient music, a genre of music that developed in england in the 1970s from experimental and synthesizer-oriented styles which puts an emphasis on tone and atmosphere over traditional musical structure or rhythm.
+Trance music, a genre of electronic dance music that developed in germany during the 1990s characterized by a tempo between 125 and 150 beats per minute, repeating melodic phrases, and a musical form that distinctly builds tension throughout a track by mixing layers with distinctly foreshadowed build-up and release.
+Music of Latin America, music originating from latin america which encompasses a wide variety of styles, including son, rumba, salsa, merengue, tango, samba, and bossa nova.
+Salsa music, a genre of music that is based largely on cuban, puerto rican, and dominican popular dance music, occasionally incorporating elements of rock, r&b, and funk.
+Flamenco, a genre originating in andalusian music and dance styles which includes cante, toque, baile, jaleo, palmas, and pitos.
+Blues, a genre and musical form developed by african americans in the united states around the end of the 19th century from african-american work songs and european-american folk music.
+Music for children, music performed for children, often designed to provide an entertaining means of teaching about cultures, good behavior, facts, and skills.
+New-age music, a genre of music intended to create artistic inspiration, relaxation, and optimism used by listeners for yoga, massage, meditation, and reading as a method of stress management or to create a peaceful atmosphere.
+Vocal music, music performed by one or more singers, with or without instrumental accompaniment, in which singing provides the main focus of the piece.
+A capella, group or solo singing without instrumental accompaniment.
+Music of Africa, music whose style or form clearly indicates african origin or primarily african influence.
+Afrobeat, a combination of traditional nigerian music, ghanaian music, jazz, highlife, funk, and chanted vocals, fused with percussion and vocal styles, popularised in africa in the 1970s.
+Christian music, music that has been written to express either personal or a communal belief regarding christian life and faith.
+Gospel music, a genre of christian music usually featuring dominant vocals with christian lyrics.
+Music of Asia, musical styles originating from a large number of asian countries located in central, southern, and east asia.
+Carnatic music, a system of music commonly associated with the southern india, whose main emphasis is on vocal music.
+Music of Bollywood, hindi film songs featured in bollywood films.
+Ska, a music genre that originated in jamaica in the late 1950s, combining elements of caribbean mento and calypso with american jazz and rhythm and blues.
+Traditional music, musical forms that have origins many generations into the past, commonly without formal notation or description, commonly familiar to people in a given culture.
+Independent music, music produced independent of major commercial record labels, possibly including a do-it-yourself approach to recording and publishing.
+Song, a musical work intended to be sung by the human voice with distinct and fixed pitches and patterns using sound and silence and a variety of forms that often include the repetition of sections.
+Background music, styles of music or soundscapes primarily intended to be listened to passively and not meant to be the main focus of an audience.
+Theme music, music often written specifically for a radio program, television program, video game, or movie, and usually played during the intro, opening credits, and/or ending credits.
+Jingle (music), a short song or tune used in advertising and for other commercial uses.
+Soundtrack music, recorded music accompanying a movie, video, tv show, video game, or the like.
+Lullaby, the act of singing a quiet song to lull a child to sleep.
+Video game music, the soundtrack that accompanies video games.
+Christmas music, a variety of genres of music normally performed or heard around the christmas season.
+Dance music, music composed specifically to facilitate or accompany dancing.
+Wedding music, music played at wedding celebrations, including the ceremony and any festivities before or after the event.
+Happy music, music that evokes or conveys feelings of happiness.
+Funny music, music that evokes or conveys amusement.
+Sad music, music that evokes or conveys feelings of sadness.
+Tender music, music that evokes or conveys feelings of tenderness.
+Exciting music, music that evokes or conveys feelings of excitement.
+Angry music, music that evokes or conveys feelings of anger.
+Scary music, music that evokes or conveys feelings of fear.
+Wind, sounds caused by the large-scale flow of gases, especially the air flowing over the surface of the earth.
+Rustling leaves, the sound of dried leaves rubbing against one another in respondse to being moved by the wind or another cause.
+Wind noise (microphone), the noise produced when a strong air current passes over a microphone, causing large amplitude local turbulence, normally recorded as mechanical clipping as the microphone element exceeds its limits of linearity.
+Thunderstorm, the sound of a storm characterized by the presence of lightning and its acoustic effect on the earth's atmosphere, known as thunder.
+Thunder, the sound caused by lightning.
+Water, sounds caused by motion of liquid water.
+Rain, the sound of droplets of liquid water that have condensed from atmospheric water vapor and then fallen under gravity.
+Raindrop, a sound clearly attributable to a single drop of rain.
+Rain on surface, steady sound of many rain drops striking a surface such as a roof or window.
+Stream, sounds of a body of water with a current, confined within a bed and banks.
+Waterfall, the sound of water flowing over a vertical drop or a series of drops in the course of a stream or river.
+Ocean, sounds of the body of saline water that composes much of earth's surface.
+Waves, surf, sounds caused by the surface waves that occur on the free surface of oceans, seas, lakes, rivers, etc., resulting from the wind blowing over the surface.
+Steam, sounds caused by  water in the gas phase, which is formed when water boils.
+Gurgling, the bubbling sound of water flowing through a narrow constriction, such as from a bottle with a narrow neck.
+Fire, sounds resulting from  the rapid oxidation of a material in the exothermic chemical process of combustion, releasing heat, light, and various reaction products.
+Crackle, an irregular sequence of sharp sounds, as from sudden vaporization of liquids trapped in a burning solid, or from a collection of snapping noises.
+Vehicle, sounds of mobile machines that transport people or cargo.
+Boat, Water vehicle, sounds of watercraft designed to float, plane, work, or travel on water.
+Sailboat, sailing ship, sounds of a boat large or small propelled partly or entirely by sails.
+Rowboat, canoe, kayak, sounds of a boat propelled using the motion of oars in the water.
+Motorboat, speedboat, sounds of a boat which is powered by an inboard or outboard engine.
+Ship, the sound of a large buoyant watercraft, distinguished from boats based on size, shape, and cargo or passenger capacity.
+Motor vehicle (road), sounds of self-propelled land vehicles, usually wheeled, that do not operate on rails.
+Car, sounds of a self-powered motor vehicle with usually four wheels used for transportation of one to eight people, designed to run primarily on roads.
+Vehicle horn, car horn, honking, the sound of a motor vehicle accessory whose purpose is to provide an audible alert of the vehicle's presence.
+Toot, a blast of a horn.
+Car alarm, the loud sound of an electronic device installed in a vehicle in an attempt to discourage theft of the vehicle or its contents.
+Power windows, electric windows, the sound of automobile windows being raised and lowered by a built-in electric motor, controlled by a button or switch.
+Skidding, the sound of a vehicle sliding on a road surface as a consequence of its wheels losing sufficient frictional contact.
+Tire squeal, the high-pitched sound of a rubber vehicle tire sliding over a road surface when the torque applied to the wheel to either accelerate or decelerate exceeds the maximum frictional force that can be supported.
+Car passing by, the sound of a motorized vehicle as it passes by a listener close to the vehicle's path.
+Race car, auto racing, the sound of one or more motor vehicles engaged in a competition to complete a course as quickly as possible.
+Truck, sounds of large motor vehicles designed to transport cargo on roads.
+Air brake, sounds of a vehicle braking system in which compressed air is used to transmit force to the brake pads on the wheels.
+Air horn, truck horn, the sound of a pneumatic device mounted on large vehicles designed to create an extremely loud noise for signalling purposes.
+Reversing beeps, the sound of an electronic warning device fitted to many commercial vehicles to alert pedestrians when the reverse gear is engaged, signaling that the vehicle is likely to move backwards.
+Ice cream truck, ice cream van, sounds of a commercial vehicle that serves as a mobile retail outlet for ice cream, usually during the summer.
+Bus, interior and exterior sounds of a road vehicle designed to carry many passengers.
+Emergency vehicle, the sound of any vehicle that is designated and authorized to respond to an emergency.
+Police car (siren), the sound of a siren fitted to a ground vehicle used by police when responding to incidents.
+Ambulance (siren), the sound of a siren fitted to a vehicle used to transport sick or injured people to a hospital or other medical facility.
+Fire engine, fire truck (siren), the sound of a siren fitted to a vehicle used to transport firefighters and their equipment to an emergency situation.
+Motorcycle, sounds of a small motor vehicle, usually with only two wheels.
+Traffic noise, roadway noise, the combined sounds of many motor vehicles traveling on roads.
+Rail transport, sounds associated with wheeled vehicles running on rails tracks.
+Train, the sound of one or more coupled vehicles running on a rail track to transport cargo or passengers, propelled by a separate locomotive or individual motors in each railroad car.
+Train whistle, the sound of an audible signaling device on a steam locomotive used to warn that the train is approaching, and to communicate with rail workers.
+Train horn, the sound of an air horn which serves as an audible warning device on diesel and electric locomotives.
+Railroad car, train wagon, the sound of a vehicle used for carrying cargo or passengers on a rail transport system.
+Train wheels squealing, the high-pitched tones caused by steel train wheels rubbing against rails, for instance when traversing a tight bend or when braking.
+Subway, metro, underground, sounds of high-capacity electric railways that serve as public transport, generally in urban areas.
+Aircraft, sound of vehicles that fly by gaining support from the air.
+Aircraft engine, the sound of the part of an aircraft that generates mechanical power.
+Jet engine, the sound of an internal combustion airbreathing engine that generates thrust by discharging a fast-moving jet of gas.
+Propeller, airscrew, the sound of an aircraft propulsion system that converts rotary motion from an engine via a rotating set of blades into forward thrust through the air.
+Helicopter, sounds of a type of rotorcraft in which lift and thrust are supplied by rotors.
+Fixed-wing aircraft, airplane, sounds of an aircraft capable of flight using wings that generate lift caused by the vehicle's forward airspeed and the shape of the wings.
+Bicycle, sounds of a human-powered, pedal-driven vehicle, having two wheels attached to a frame, one behind the other.
+Skateboard, sounds of a type of sports equipment consisting of a board mounted on two pairs of wheels.
+Engine, the sound of a machine designed to produce mechanical energy.
+Light engine (high frequency), the sound of a small engine such as a toy car, sewing machine, or moped.
+Dental drill, dentist's drill, the sound of a small, high-speed drill used during dental procedures, usually to remove decay and shape tooth structure prior to the insertion of a filling or crown.
+Lawn mower, the sound of a machine utilizing one or more revolving blades to cut grass, powered by an electric motor, a small internal combustion engine, or by a human pushing the machine.
+Chainsaw, the sound of a portable mechanical saw which cuts with a set of teeth attached to a rotating chain.
+Medium engine (mid frequency), the sound of a moderately-sized engine such as that which powers a motorcycle, sedan, or small truck.
+Heavy engine (low frequency), the sound of a large, heavy-duty internal combustion engine, such as that which powers a large truck, locomotive, or ship.
+Engine knocking, a metallic "pinging" sound caused by a malfunctioning spark-ignited internal combustion engine.
+Engine starting, the sound of an engine starting from rest, which may involve a specific starter mechanism as in a standard car.
+Idling, the sound of an engine typically in an automobile running without any load and at minimal rpm.
+Accelerating, revving, vroom, the sound made by the engine of a vehicle undergoing acceleration, usually involving an increase in loudness and a rising pitch.
+Door, sounds of a moving structure used to open or close an entrance to an enclosed space such as a building or vehicle.
+Doorbell, the sound of a signaling device typically placed near a building's entrance with which a visitor can announce their presence to occupants.
+Ding-dong, a multi-tone chime made by a doorbell.
+Sliding door, the sound of a type of door which opens horizontally by sliding, usually parallel to a wall.
+Slam, the sound of a door or other hinged cover being closed violently.
+Knock, a sharp noise of a rigid surface being struck, usually without damage and deliberately, most often with the knuckles of the hand.
+Tap, the sound of a light collision between a rigid object and a rigid surface, for instance to deliberately attract attention.
+Squeak, a short, high-pitched noise without a sharp attack.
+Cupboard open or close, the sound of the door to a storage cabinet being opened or closed.
+Drawer open or close, the sound of the opening or closing of a box-shaped container that fits into a piece of furniture in such a way that it can be drawn out horizontally to reach its contents.
+Dishes, pots, and pans, the sound of non-destructive collisions between plates, dishes, glassware, cooking vessels, and kitchen and eating utensils.
+Cutlery, silverware, the sounds of hand implements such as knife, fork, and spoon, that are typically made of steel and are used in preparing, serving, and eating food in the western world.
+Chopping (food), the sound of cutting ingredients into pieces with a knife or similar blade tool.
+Frying (food), the sound of cooking food in oil or another fat.
+Microwave oven, sounds made by a kitchen appliance that heats food by exposing it to microwave radiation, including the noise of the fan, rotation mechanism, and microwave source, as well as the alert sound used to indicate that cooking is complete.
+Blender, the sound of a kitchen and laboratory appliance used to mix, purée, or emulsify food and other substances, usually by means of metal blades at the base of a container spun rapidly by an electric motor.
+Water tap, faucet, the sound of a hand-operated valve controlling the release of water, for instance as fitted to a sink or bath, and the resulting water flow.
+Sink (filling or washing), sounds originating from a bowl-shaped plumbing fixture that stores and drains water and that is used for washing hands, dishwashing, and other purposes.
+Bathtub (filling or washing), sounds originating from a large container for holding water in which a person may bathe.
+Hair dryer, the sound of an electromechanical device designed to blow normal or hot air over damp hair, in order to dry the hair.
+Toilet flush, the sound of a toilet flushing water along with any waste through a drainpipe.
+Toothbrush, sounds of an instrument used to clean the teeth and gums consisting of a head of tightly clustered bristles mounted on a handle.
+Electric toothbrush, the sound of a toothbrush that makes rapid, automatic bristle motions driven by an electric motor in order to clean teeth.
+Vacuum cleaner, the sound of a device that uses an air pump to create a partial vacuum to suck up dust and dirt, usually from floors and other surfaces such as upholstery and draperies.
+Zipper (clothing), the sound of a device consisting of two rows of small interlocking teeth for binding the edges of an opening of fabric or other flexible material, like on a garment or a bag.
+Keys jangling, sounds made by the mutual collision of small pieces of metal, which are often linked on a ring, used to operate locks.
+Coin (dropping), the sound of a small, flat, round piece of hard material such as metal or plastic colliding with or bouncing on a hard surface.
+Scissors, the sound of hand-operated shearing tools consisting of a pair of metal blades pivoted so that the sharpened edges slide against each other when the handles opposite to the pivot are closed.
+Electric shaver, electric razor, the sound of a bladed tool primarily used in the removal of unwanted body hair where the blades are continually moved by an electric motor.
+Shuffling cards, the sound of playing cards being manually rearranged into a random order.
+Typing, the sound of writing or inputting text by pressing keys on a typewriter, computer keyboard, cell phone, or calculator.
+Typewriter, sounds of a mechanical or electromechanical machine for printing characters by means of keyboard-operated types striking a ribbon to transfer ink or carbon impressions onto paper.
+Computer keyboard, sounds created by a typewriter-style device which uses an arrangement of buttons or keys controlling switches to enter text or other information into a computer or other electronic device.
+Writing, the sound of inscribing signs and symbols, most often by using a purpose-made hand-held device, such as a pen or pencil, directly upon paper or similar media.
+Alarm, the sound of an automatic signal warning of danger.
+Telephone, the sound of a telecommunications device that permits two or more users to conduct a conversation when they are too far apart to be heard directly.
+Telephone bell ringing, the sound of a physical or synthesized electric bell ringing to signal an incoming telephone call.
+Ringtone, the synthesized or pre-recorded sounds made by contemporary electronic telephones to indicate an incoming call or text message.
+Telephone dialing, DTMF, the sound of a telephony signaling system where short combinations of tones within the frequency range of human speech are used to transmit individual digits.
+Dial tone, the sound of a signal that a telephone exchange or other switching equipment sends to a telephone to confirm that it is ready to initiate a connection.
+Busy signal, a sound usually a simple repeating tone played over a telephone line to indicate that the requested connection could not be completed, for instance because the remote party is already engaged in a different call.
+Alarm clock, sounds made by a clock that is designed to make an audible signal at a specific time.
+Siren, the sound of a loud noise-making device used to provide warnings to people nearby.
+Civil defense siren, the sound of a siren used to provide emergency population warning of approaching danger such as hurricanes, earthquakes, or military attacks.
+Buzzer, sounds of a mechanical, electromechanical, or piezoelectric signaling device that emits a steady, highly-audible tone with a spectrum extending to high frequencies.
+Smoke detector, smoke alarm, sounds emitted by a device that senses smoke, typically to warn of a fire.
+Fire alarm, sounds of a system designed to warn people when smoke, fire, carbon monoxide or other emergencies are present.
+Foghorn, a signaling sound used primarily in foggy conditions to warn watercraft of the presence of nearby vessels or other navigational hazards.
+Whistle, the sound of an instrument that produces sound from a stream of forced air.
+Steam whistle, the sound of a device used to produce sound with the aid of live steam, which acts as a vibrating system.
+Mechanisms, sounds that originate from human-created machinery and devices.
+Ratchet, pawl, the sound of a mechanical device that allows continuous linear or rotary motion in only one direction while preventing motion in the opposite direction.
+Clock, sounds made by an instrument designed to keep and indicate time.
+Tick, a metallic tapping sound.
+Tick-tock, a steady recurrent ticking sound as made by a clock.
+Gears, sounds of rotating machine parts having cut teeth, or cogs, which mesh with other toothed parts to transmit torque.
+Pulleys, sounds of a wheel on an axle or shaft that is designed to support movement and change of direction of a taut cable or belt along its circumference.
+Sewing machine, sounds of a machine used to stitch fabric and other materials together with thread.
+Mechanical fan, sounds of a machine used to create air flow via the motion of a rotating arrangement of vanes or blades.
+Air conditioning, the sound of a device that removes heat from the air inside a building or vehicle, thus lowering the air temperature.
+Cash register, sounds of a mechanical or electronic device for registering and calculating transactions, usually attached to a drawer for storing cash.
+Printer, sounds of a computer peripheral which makes a persistent human readable representation of graphics or text on paper or similar physical media.
+Camera, sounds of mechanical or electronic instruments that employ optics to record or capture images.
+Single-lens reflex camera, sounds of camera that uses a mirror and prism system to permit the photographer to view through the lens and see exactly what will be captured.
+Tools, sounds associated with any physical item that can be used to achieve a goal, especially if the item is not consumed in the process.
+Hammer, sounds made by a tool or device that delivers a blow to an object.
+Jackhammer, the sound of a pneumatic or electro-mechanical tool that combines a hammer directly with a chisel, usually used to break up rock, pavement, and concrete.
+Sawing, sounds of a tool consisting of a tough blade, wire, or chain with a hard toothed edge, used to cut through material, most often wood.
+Filing (rasp), sounds of a common wood- and metal-working tool used to remove fine amounts of material from a workpiece.
+Sanding, the sounds of a surface being scraped by an abrasive material affixed to sheets of paper or cloth, either to make the surface smoother, remove a layer of material, or sometimes to make the surface rougher.
+Power tool, sounds of tools that employ a power source other than the manual labor used with hand tools.
+Drill, sounds of a tool used for making holes in various materials via a rotating drill bit.
+Explosion, the sound of a rapid increase in volume and release of energy in an extreme manner, usually with the generation of high temperatures and the release of gases.
+Gunshot, gunfire, the sound of the discharge of a firearm, or multiple such discharges.
+Machine gun, sounds of a fully automatic mounted or portable firearm, designed to fire bullets in quick succession from an ammunition belt or magazine, typically at a rate of 300 to 1800 rounds per minute.
+Fusillade, the sound of the simultaneous and continuous firing of a group of firearms on command.
+Artillery fire, the sound of large military weapons built to fire munitions far beyond the range and power of infantry's small arms.
+Cap gun, the sound of a toy gun that creates a loud sound simulating a gunshot and a puff of smoke when a small percussion cap is exploded.
+Fireworks, sounds of a class of low explosive pyrotechnic devices used for aesthetic and entertainment purposes.
+Firecracker, the sound of a small explosive device primarily designed to produce a large amount of noise, especially in the form of a loud bang.
+Burst, pop, the sound of an enclosure holding gas or liquid coming open suddenly and violently.
+Eruption, the sound of a volcano violently ejecting ash and lava, or a similar event in which large volumes of material are explosively released.
+Boom, a deep prolonged loud noise.
+Wood, sounds associated with the porous and fibrous structural tissue found in the stems and roots of trees, and other woody plants.
+Chop, the sound of cutting a solid material such as wood into smaller pieces by using an ax or other hacking tool.
+Splinter, the sound of a rigid fibrous material, typically wood, breaking up into splinters or slivers.
+Crack, abrupt sounds of individual ruptures in a rigid substance under stress.
+Glass, sounds associated with the non-crystalline amorphous solid that is often transparent and has widespread practical, technological, and decorative uses.
+Chink, clink, a short light metallic sound.
+Shatter, the sound of a brittle rigid substance rapidly breaking into many pieces.
+Liquid, sounds of a fluid that conforms to the shape of its container but retains a constant volume independent of pressure.
+Splash, splatter, the sound of a liquid colliding with a hard surface.
+Slosh, the sound of small waves of liquid held in a container breaking against the edges.
+Squish, sounds made by a liquid-saturated material being squeezed.
+Drip, the sound of liquid falling in drops.
+Pour, the sound of liquid being transferred in a steady stream.
+Trickle, dribble, the sound of a liquid flowing slowly in an unsteady stream or drops.
+Gush, the sound of a liquid coming out of a pipe or other opening rapidly and in large volumes.
+Fill (with liquid), the sound of a container being filled with liquid.
+Spray, the sound of a liquid being transferred in a scatter or jet of droplets.
+Pump (liquid), the sound of a liquid being drawn or poured with a pump.
+Stir, the sound of moving an implement through a fluid substance.
+Boiling, the sound of a liquid that is reaching the temperature at which it transitions to a vapor, resulting in bubbles emerging at the surface.
+Sonar, sounds associated with underwater sensing via acoustic signals.
+Arrow, sounds of a shafted projectile that is shot with a bow.
+Whoosh, swoosh, swish, a sibilant sound caused by a rigid object sweeping through the air.
+Thump, thud, a heavy dull sound, as made by impact of heavy objects with a relatively soft point of contact.
+Thunk, a partly dull hollow sound with a damped resonance.
+Electronic tuner, sounds produced by an electronic device whose purpose is to aid in the tuning of musical instruments.
+Effects unit, sounds associated with an electronic device that alters how a musical instrument or other audio source sounds.
+Chorus effect, the ensemble sound produced by an electronic effects unit which outputs simultaneous versions of the input source with small variations in pitch and timbre.
+Basketball bounce, the sound of a basketball bouncing on a hard surface, such as a basketball court.
+Bang, a brief and loud noise.
+Slap, smack, the sharp sound of a flat object striking another e.g., an open hand hitting a face.
+Whack, thwack, the sound of a partially rigid object forcefully striking another object, which may be preceded by the sound of the rapid, driven motion of one object as of a baseball bat hitting a ball.
+Smash, crash, the sound of a rigid structure violently breaking into many pieces.
+Breaking, the sound of a rigid object become separated into pieces or fragments.
+Bouncing, the sound of an elastic, non-destructive collision in which one or both objects spring back.
+Whip, the sound of whipping, i.e., the greatly accelerated motion of the tip of a flexible structure, as the result of concentrated angular momentum.
+Flap, the noisy sound of a flexible surface, such as a flag, moving back-and-forth in the air and optionally coming into contact with an adjacent hard surface.
+Scratch, the sound of a hard, sharp point of contact leaving a permanent groove in a hard surface.
+Scrape, the sound of a hard edge dragging across a surface.
+Rub, the sound of two surfaces moving smoothly over each other with pressure but without excessive friction.
+Roll, the sound of an object moving by turning over or rotating.
+Crushing, the sound of a brittle, rigid structure breaking into small pieces or catastrophically deforming.
+Crumpling, crinkling, the sound of a rigid but flexible sheet, such as paper or aluminum, buckling into a smaller volume.
+Tearing, the sound of a flat or smooth surface separating abruptly.
+Beep, bleep, a short, single tone, generally made by a computer or other machine and typically high-pitched.
+Ping, a sharp high-pitched resonant sound with a clear decay.
+Ding, a high-pitched ringing sound, as of a small metal object being struck.
+Clang, a loud, resonant, discordant noise, as of a large and partly hollow metal structure begin struck.
+Squeal, a short, high-pitched tone without a sharp attack and with a perceptible variation in pitch.
+Creak, a high-pitched noise with a perceptible variation in pitch as a result of pressure being shifted or applied on a surface, most commonly on wood.
+Rustle, a sound of light, thin objects, such as dried leaves, rubbing against one another.
+Whir, a quiet sound of a small object, typically mechanical, in rapid, cyclic motion.
+Clatter, an irregular rattling noise, often produced by rapid movement, consisting of a cluster of transient sounds.
+Sizzle, the sound of many small bubbles bursting, most often caused by fat vaporizing as it is heated.
+Clicking, a short, pitchless, transient sound, as of a gentle impact between small hard objects.
+Clickety-clack, the sound of fast and rhythmic clicking of machinery, such as keystrokes on a typewriter or steel wheels running on tracks.
+Rumble, a loud, low-pitched, dull, continuous noise.
+Plop, the sound of a small object dropping into a liquid without a splash.
+Jingle, tinkle, an irregular pattern of short metallic sounds, especially from small metal objects such as keys or coins shaking against each other.
+Hum, a continuous, dull tone.
+Zing, a brief high-pitched buzzing or humming sound.
+Boing, a bouncing or spring-like sound with a tonal component that sweeps upwards.
+Crunch, the sound of a brittle substance being crushed.
+Silence, the absence of audible sound or presence of sounds of very low intensity.
+Sine wave, a continuous, pure tone of fixed pitch and amplitude.
+Harmonic, a sine tone whose frequency is an integer multiple of some fundamental tone.
+Chirp tone, a tone whose frequency increases or decreases with time.
+Sound effect, an artificially created or enhanced sound used to emphasize artistic or other content of films, television shows, live performances, animation, video games, music, or other media.
+Pulse, a sound that is modulated in short, regular bursts at approximately 1 hz.
+Inside, small room, sounds that appear to have been recorded within a small room, such as one that can accommodate no more than 15 people.
+Inside, large room or hall, sounds that appear to have been recorded in a large room or hall, often with clearly perceptible reverberation.
+Inside, public space, sounds that appear to have been recorded in a public space such as store, restaurant, or travel terminus, often characterized by both reverberation and continuous background noise.
+Outside, urban or manmade, sounds that appear to have been recorded outdoors in a human-constructed environment.
+Outside, rural or natural, sounds that appear to have been recorded outdoors in a natural, non-manmade environment.
+Reverberation, the sound of an acoustic environment that includes substantial reflection from multiple walls or other hard surfaces.
+Echo, a sound which is a delayed and attenuated repetition of an earlier sound, for example because the sound wave has been reflected back from a distant, planar surface.
+Noise, a sound that has no perceptible structure and that typically interferes with the perception of more interesting or important sounds.
+Environmental noise, the combined sounds of transport, industrial, and recreational activities.
+Static, a crackling or hissing noise caused by electrical interference.
+Mains hum, a low, continuous tone caused by electromagnetic interference from the alternating current of the mains electricity.
+Distortion, a sound that has been modified in a nonlinear fashion, usually in electronic equipment, to introduce sound correlated with the original signal.
+Sidetone, the audible feedback on a telecommunications channel that allows the speaker to know that the channel is operational.
+Cacophony, a loud, confusing, disagreeable sound, such as many voices shouting simultaneously.
+White noise, a random, unstructured sound in which the value at any moment provides no information about the value at any other moment.
+Pink noise, unstructured noise whose energy decreases with frequency such that equal amounts of energy are distributed in logarithmic bands of frequency, typically octaves.
+Throbbing, a dull, continunous sound with a strong rhythmic modulation.
+Vibration, the general class of sounds caused by a periodic mechanical oscillation.
+Television, a sound that appears to have been produced by a television set.
+Radio, a sound that appears to have been produced by a radio receiver.
+Field recording, a sound that appears to have been recorded in some specific environment, usually with the intention of capturing and representing that environment.

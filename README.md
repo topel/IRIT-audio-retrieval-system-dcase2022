@@ -61,7 +61,14 @@ This step will output ```sentence_embeddings_mpnet.hdf5```.
 
 ```python scripts/sentence_embeddings_evaluation_set_task6b.py```
 
-## Part 4 - train and test a model
+## Part 4 - sentence embedding extraction of the 527 AudioSet tags
+
+With the same sentence BERT model, MPNet, we extract the embeddings of the AudioSet tags
+
+```python scripts/audioset_tag_embeddings.py```
+
+
+## Part 5 - train and test a model
 
 The serious business (problems? ;-)) begins here... 
 
